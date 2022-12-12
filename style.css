@@ -139,6 +139,64 @@
 .navbar-logo-title:hover {
   color: rgba(239, 193, 76, 1);
 }
+.spec1 {
+  left: 100px;
+  bottom: 33px;
+  height: auto;
+  position: absolute;
+  align-self: flex-start;
+  font-style: normal;
+  font-weight: 600;
+}
+.PHEAD {
+  top: 180px;
+  left: 636px;
+  width: 400px;
+  position: absolute;
+  font-size: 25px;
+  align-self: flex-end;
+}
+.SPEC2 {
+  font-style: normal;
+  font-weight: 600;
+}
+.SPEC11 {
+  left: 230px;
+  bottom: 33px;
+  position: absolute;
+  align-self: flex-start;
+}
+.PRICE {
+  top: 417px;
+  left: 730px;
+  position: absolute;
+  align-self: center;
+}
+.ADDTOCART {
+  top: 520px;
+  left: 650px;
+  position: absolute;
+}
+.BUYNOW {
+  top: 520px;
+  left: 850px;
+  position: absolute;
+}
+.IMAGE {
+  top: 250px;
+  flex: 1;
+  left: 100px;
+  width: 395px;
+  height: 320px;
+  position: absolute;
+  align-self: flex-start;
+  object-fit: cover;
+}
+.SPECIFICATION {
+  left: 50px;
+  bottom: 280px;
+  position: absolute;
+}
 .Heading-3 {
   font-size: 24px;
   font-style: normal;
