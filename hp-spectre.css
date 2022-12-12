@@ -1,0 +1,151 @@
+.hp-spectre-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.hp-spectre-image {
+  top: 185px;
+  left: 103px;
+}
+.hp-spectre-text {
+  top: 175px;
+  right: 100px;
+  width: auto;
+  height: auto;
+  font-style: normal;
+  font-weight: 500;
+}
+.hp-spectre-text01 {
+  top: 323px;
+  left: 741px;
+}
+.hp-spectre-text04 {
+  text-decoration: line-through;
+}
+.hp-spectre-text05 {
+  text-decoration: line-through;
+}
+.hp-spectre-button {
+  top: 451px;
+  left: 858px;
+}
+.hp-spectre-button1 {
+  top: 453px;
+  left: 655px;
+}
+.hp-spectre-container1 {
+  top: 593.7875366210938px;
+  left: 65px;
+  width: 967.75px;
+  height: 317.2124481201172px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.hp-spectre-heading {
+  top: 0px;
+  left: 0px;
+}
+.hp-spectre-text11 {
+  top: 61.012451171875px;
+  left: 50px;
+}
+.hp-spectre-text25 {
+  top: 61.012451171875px;
+  left: 180px;
+}
+.hp-spectre-text39 {
+  top: 61.012451171875px;
+  left: 451px;
+  position: absolute;
+}
+.hp-spectre-text53 {
+  top: 61.012451171875px;
+  right: 0px;
+  position: absolute;
+  align-self: flex-end;
+}
+.hp-spectre-header {
+  top: 0px;
+  left: 136px;
+  position: absolute;
+  padding-top: var(--dl-space-space-oneandhalfunits);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-oneandhalfunits);
+  justify-content: space-between;
+}
+.hp-spectre-navbar {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+}
+.hp-spectre-container2 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.hp-spectre-middle {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: transparent;
+  justify-content: center;
+}
+.hp-spectre-left {
+  display: flex;
+  grid-gap: 45px;
+  position: relative;
+  align-items: flex-start;
+}
+.hp-spectre-text67 {
+  text-decoration: none;
+}
+.hp-spectre-logo-center {
+  text-decoration: none;
+}
+.hp-spectre-right {
+  display: flex;
+  grid-gap: 45px;
+  position: relative;
+  align-items: flex-start;
+}
+.hp-spectre-icons {
+  display: flex;
+}
+.hp-spectre-image1 {
+  width: 24px;
+  height: 24px;
+  margin: 0 24px 0 0;
+  position: relative;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.hp-spectre-image2 {
+  width: 24px;
+  height: 24px;
+  margin: 0 24px 0 0;
+  position: relative;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
+.hp-spectre-image3 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
